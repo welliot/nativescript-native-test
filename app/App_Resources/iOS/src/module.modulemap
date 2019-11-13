@@ -1,0 +1,4 @@
+module NativeAnimator {
+    header "NativeAnimator.h"
+    export *
+}
